@@ -34,7 +34,7 @@
             <div class="text-three">Leitura sobre o campeonato de xadrez, regras e modo de jogo.</div>
           </div>
           <div class="button">
-           <a href="https://github.com/Migzsm" target="_blank"><button>Me contate!</button></a>
+           <a href="https://github.com/VITOR-001" target="_blank"><button>Me contate!</button></a>
           </div>
         </div>
       </section>
