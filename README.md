@@ -91,6 +91,5 @@ brancas uma oportunidade de atacar logo no início.</p>
             </span>
         </div>
       </footer>
-      <script src="script.js"></script>
     </body>
   </html>
